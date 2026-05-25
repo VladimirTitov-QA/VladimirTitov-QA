@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет! 👋
 
 <!--
 **VladimirTitov-QA/VladimirTitov-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
