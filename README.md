@@ -27,8 +27,13 @@
 
 
 ### 📚 Обучение
-<img height="550" src="media/certificate_manual.jpg"/>
-<img height="550" src="media/certificate_python_ru.png"/>|<img height="550" src="media/certificate_python_eng.png"/>
+<div style="text-align: left;">
+  <img height="550" src="media/certificate_manual.jpg"/>
+</div>
+<div style="text-align: left;">
+  <img height="550" src="media/certificate_python_ru.png"/>
+  <img height="550" src="media/certificate_python_eng.png"/>
+</div>
 
 
 ### 📊 Статистика
