@@ -1,0 +1,25 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Файлы, созданные Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Файлы, созданные IDE
+.idea/
+.vscode/
+
+# Переменные окружения
+.env
+
+# Системные файлы Windows
+Thumbs.db
+
+# Системные файлы macOS
+.DS_Store
