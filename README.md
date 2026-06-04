@@ -6,7 +6,7 @@
 - 🐍 Пишу автотесты на Python
 - ⚙️ Развиваюсь в автоматизации
 - 📑 Опыт и навыки в **[резюме](https://career.habr.com/vladimir_084)**
-- 📞 Мои контакты::
+- 📞 Мои контакты:
   - [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kremlin_9)
   - [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:titov0884@yandex.ru)
   <!-- Документация по виджету контактов ↑↑: https://shields.io/badges --> 
@@ -27,9 +27,7 @@
 
 
 ### 📚 Обучение
-<img height="550" src="media/certificate_manual.jpg"/>
-<img height="550" src="media/certificate_python_ru.png"/>
-<img height="550" src="media/certificate_python_eng.png"/>
+<img height="550" src="media/certificate_manual.jpg"/>|<img height="550" src="media/certificate_python_ru.png"/>|<img height="550" src="media/certificate_python_eng.png"/>
 
 
 ### 📊 Статистика
