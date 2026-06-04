@@ -27,7 +27,8 @@
 
 
 ### 📚 Обучение
-<img height="550" src="media/certificate_manual.jpg"/>|<img height="550" src="media/certificate_python_ru.png"/>|<img height="550" src="media/certificate_python_eng.png"/>
+<img height="550" src="media/certificate_manual.jpg"/>
+<img height="550" src="media/certificate_python_ru.png"/>|<img height="550" src="media/certificate_python_eng.png"/>
 
 
 ### 📊 Статистика
