@@ -12,45 +12,36 @@
   <!-- Документация по виджету контактов ↑↑: https://shields.io/badges --> 
 
 ## Тестирование API и интеграций
-<div>
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="40" alt="Postman" title="Postman"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
-</div>
-
-## Тестирование API и интеграций / skillicons
-
-<div>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=swagger" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
-</div>
-
-## Тестирование API и интеграций / profile-technology-icons
-
 <div >
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman" width="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker" width="50"/>&nbsp
+  <img src="media/postman.png" alt="Postman" title="Postman" width="50" />&nbsp;
+  <img src="media/swagger.png" alt="Swagger" title="Swagger" width="50" />&nbsp;
+  <img src="media/rest.png" alt="REST" title="REST" width="50" />&nbsp;
+  <img src="media/soap.png" alt="SOAP" title="SOAP" width="50" />&nbsp;
+  <img src="media/docker.png" alt="Docker" title="Docker" width="60" />&nbsp;
+  <img src="media/kafka.svg" alt="Kafka" title="Kafka" width="50" />&nbsp;
+  <img src="media/kafka.png" alt="Kafka" title="Kafka" width="50" />
+</div>
+
+## Тестирование Web и Мобильных приложений
+<div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio" width="50" />&nbsp;
+  <img src="media/charles_proxy.png" alt="Charles Proxy" title="Charles Proxy" width="50" />
 </div>
 
 
+## Python QA Auto
 
+### Мой стек на Python:
+| Python                                                              | PyCharm                                                              | Git                                                                          | Pytest                                                              | Requests                                                              | Selenium                                                              | Allure Report                                                             | Docker                                                              | Gitlab CI                                                           | PostgreSQL                                                           |
+|---------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
+| <div align="center"><img src="media/python.png" width="50" /></div> | <div align="center"><img src="media/pycharm.png" width="50" /></div> | <div align="center"><img src="media/git.png" width="50" height="50" /></div> | <div align="center"><img src="media/pytest.png" width="50" /></div> | <div align="center"><img src="media/requests.png" width="50" /></div> | <div align="center"><img src="media/selenium.png" width="50" /></div> | <div align="center"><img src="media/allurereport.png" width="60" /></div> | <div align="center"><img src="media/docker.png" width="60" /></div> | <div align="center"><img src="media/gitlab.png" width="50" /></div> | <div align="center"><img src="media/postgre.png" width="60" /></div> |
 
-
-
-### Python QA Auto
-
-#### Мой стек:
-| Python                                                | PyCharm                                               | Git                                               | Pytest                                               | Requests                                               | Selenium                                               | Allure Report                                                                        | Docker                                               | Gitlab CI                                             | PostgreSQL                                            |
-|-------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| <img src="media/python.png" width="50" height="50"/>  | <img src="media/pycharm.png" width="50" height="50"/> | <img src="media/git.png" width="60" height="60"/> | <img src="media/pytest.png" width="55" height="55"/> | <img src="media/requests.png" width="50" height="50"/> | <img src="media/selenium.png" width="50" height="50"/> | <div align="center"><img src="media/allurereport.png" width="55" height="55"/></div> | <img src="media/docker.png" width="80" height="60"/> | <img src="media/gitlab.png" width="50" height="50"/>  | <img src="media/postgre.png" width="80" height="80"/> |
-
-#### Мои проекты:
+### Мои проекты на Python:
 | API My Shows Rating                                                          | API Битва покемонов                                                                    | UI Битва покемонов                                                                     |
 |------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [my-shows-api-tests](https://github.com/VladimirTitov-QA/my_shows_api_tests) | [pokemonbattle-api-tests](https://github.com/VladimirTitov-QA/pokemonbattle_api_tests) | [pokemonbattle-e2e-tests](https://github.com/VladimirTitov-QA/pokemonbattle_e2e_tests) |
@@ -59,11 +50,11 @@
 
 ### 📚 Обучение
 <div style="text-align: left;">
-  <img height="550" src="media/certificate_manual.jpg"/>
+  <img src="media/certificate_manual.jpg" width="400" />
 </div>
 <div style="text-align: left;">
-  <img height="550" src="media/certificate_python_ru.png"/>
-  <img height="550" src="media/certificate_python_eng.png"/>
+  <img src="media/certificate_python_ru.png" width="400" />
+  <img src="media/certificate_python_eng.png" width="400" />
 </div>
 
 
