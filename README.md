@@ -1,6 +1,6 @@
 ## Всем привет! 👋
 
-#### Меня зовут Владимир, я QA Engineer
+#### Меня зовут Владимир, я Fullstack QA Engineer (Python: pytest, selenium, requests)
 
 - 🔥 4+ лет в тестировании
 - 🐍 Пишу автотесты на Python
@@ -64,9 +64,9 @@
 ## Python QA Auto
 
 ### Мой стек на Python:
-| Python                                                              | PyCharm                                                              | Git                                                                          | Pytest                                                              | Requests                                                              | Selenium                                                              | Allure Report                                                              | Docker                                                              | Gitlab CI                                                           |
+| Python                                                              | PyCharm                                                              | Git                                                                          | Pytest                                                              | Selenium                                                              | Requests                                                              | Allure Report                                                              | Docker                                                              | Gitlab CI                                                           |
 |---------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| <div align="center"><img src="media/python.png" width="50" /></div> | <div align="center"><img src="media/pycharm.png" width="50" /></div> | <div align="center"><img src="media/git.png" width="50" height="50" /></div> | <div align="center"><img src="media/pytest.png" width="50" /></div> | <div align="center"><img src="media/requests.png" width="50" /></div> | <div align="center"><img src="media/selenium.svg" width="50" /></div> | <div align="center"><img src="media/allure_report.png" width="60" /></div> | <div align="center"><img src="media/docker.png" width="60" /></div> | <div align="center"><img src="media/gitlab.png" width="50" /></div> |
+| <div align="center"><img src="media/python.png" width="50" /></div> | <div align="center"><img src="media/pycharm.png" width="50" /></div> | <div align="center"><img src="media/git.png" width="50" height="50" /></div> | <div align="center"><img src="media/pytest.png" width="50" /></div> | <div align="center"><img src="media/selenium.svg" width="50" /></div> | <div align="center"><img src="media/requests.png" width="50" /></div> | <div align="center"><img src="media/allure_report.png" width="60" /></div> | <div align="center"><img src="media/docker.png" width="60" /></div> | <div align="center"><img src="media/gitlab.png" width="50" /></div> |
 
 ### Мои проекты на Python:
 | API My Shows Rating                                                          | API Битва покемонов                                                                    | UI Битва покемонов                                                                     |
