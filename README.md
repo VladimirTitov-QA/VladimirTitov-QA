@@ -25,21 +25,37 @@
 ## Тестирование Web и Мобильных приложений
 <div>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP" width="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" width="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" width="60" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" width="60" />&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma" width="50" />&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase" width="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio" width="50" />&nbsp;
-  <img src="media/charles_proxy.png" alt="Charles Proxy" title="Charles Proxy" width="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio" width="60" />&nbsp;
+  <img src="media/charles_proxy.png" alt="Charles Proxy" title="Charles Proxy" width="60" />
 </div>
 
+## Логи и мониторинг
+<div>
+  <img src="media/kibana.png" alt="Kibana" title="Kibana" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash" width="50" />
+</div>
+
+## Тестовая документация 
+<div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira" width="50" />&nbsp;
+  <img src="media/confluence.png" alt="Confluence" title="Confluence" width="50" />&nbsp;
+  <img src="media/notion.svg" alt="Notion" title="Notion" width="50" />&nbsp;
+  <img src="media/yandex_tracker_logo_2021.png" alt="Yandex Tracker" title="Yandex Tracker" width="50" />&nbsp;
+  <img src="media/testit_icon_blue.png" alt="Test IT" title="Test IT" width="50" />&nbsp;
+  <img src="media/allure_testops.png" alt="Allure TestOps" title="Allure TestOps" width="50" />
+</div>
 
 ## Python QA Auto
 
 ### Мой стек на Python:
-| Python                                                              | PyCharm                                                              | Git                                                                          | Pytest                                                              | Requests                                                              | Selenium                                                              | Allure Report                                                             | Docker                                                              | Gitlab CI                                                           | PostgreSQL                                                           |
-|---------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
-| <div align="center"><img src="media/python.png" width="50" /></div> | <div align="center"><img src="media/pycharm.png" width="50" /></div> | <div align="center"><img src="media/git.png" width="50" height="50" /></div> | <div align="center"><img src="media/pytest.png" width="50" /></div> | <div align="center"><img src="media/requests.png" width="50" /></div> | <div align="center"><img src="media/selenium.png" width="50" /></div> | <div align="center"><img src="media/allurereport.png" width="60" /></div> | <div align="center"><img src="media/docker.png" width="60" /></div> | <div align="center"><img src="media/gitlab.png" width="50" /></div> | <div align="center"><img src="media/postgre.png" width="60" /></div> |
+| Python                                                              | PyCharm                                                              | Git                                                                          | Pytest                                                              | Requests                                                              | Selenium                                                              | Allure Report                                                              | Docker                                                              | Gitlab CI                                                           | PostgreSQL                                                           |
+|---------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
+| <div align="center"><img src="media/python.png" width="50" /></div> | <div align="center"><img src="media/pycharm.png" width="50" /></div> | <div align="center"><img src="media/git.png" width="50" height="50" /></div> | <div align="center"><img src="media/pytest.png" width="50" /></div> | <div align="center"><img src="media/requests.png" width="50" /></div> | <div align="center"><img src="media/selenium.png" width="50" /></div> | <div align="center"><img src="media/allure_report.png" width="60" /></div> | <div align="center"><img src="media/docker.png" width="60" /></div> | <div align="center"><img src="media/gitlab.png" width="50" /></div> | <div align="center"><img src="media/postgre.png" width="60" /></div> |
 
 ### Мои проекты на Python:
 | API My Shows Rating                                                          | API Битва покемонов                                                                    | UI Битва покемонов                                                                     |
