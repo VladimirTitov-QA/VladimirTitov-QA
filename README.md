@@ -9,18 +9,7 @@
 - 📞 Мои контакты:
   - [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kremlin_9)
   - [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:titov0884@yandex.ru)
-  <!-- Документация по виджету контактов ↑↑: https://shields.io/badges --> 
-
-## Тестирование API и интеграций
-<div >
-  <img src="media/postman.png" alt="Postman" title="Postman" width="50" />&nbsp;
-  <img src="media/swagger.png" alt="Swagger" title="Swagger" width="50" />&nbsp;
-  <img src="media/rest.png" alt="REST" title="REST" width="50" />&nbsp;
-  <img src="media/soap.png" alt="SOAP" title="SOAP" width="50" />&nbsp;
-  <img src="media/docker.png" alt="Docker" title="Docker" width="60" />&nbsp;
-  <img src="media/kafka.svg" alt="Kafka" title="Kafka" width="50" />&nbsp;
-  <img src="media/kafka.png" alt="Kafka" title="Kafka" width="50" />
-</div>
+  <!-- Документация по виджету контактов ↑↑: https://shields.io/badges -->
 
 ## Тестирование Web и Мобильных приложений
 <div>
@@ -33,11 +22,14 @@
   <img src="media/charles_proxy.png" alt="Charles Proxy" title="Charles Proxy" width="60" />
 </div>
 
-## Логи и мониторинг
-<div>
-  <img src="media/kibana.png" alt="Kibana" title="Kibana" width="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana" width="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash" width="50" />
+## Тестирование API и интеграций
+<div >
+  <img src="media/postman.png" alt="Postman" title="Postman" width="50" />&nbsp;
+  <img src="media/swagger.png" alt="Swagger" title="Swagger" width="50" />&nbsp;
+  <img src="media/rest.png" alt="REST" title="REST" width="50" />&nbsp;
+  <img src="media/soap.png" alt="SOAP" title="SOAP" width="50" />&nbsp;
+  <img src="media/docker.png" alt="Docker" title="Docker" width="60" />&nbsp;
+  <img src="media/kafka.svg" alt="Kafka" title="Kafka" width="50" />
 </div>
 
 ## Тестовая документация 
@@ -50,12 +42,31 @@
   <img src="media/allure_testops.png" alt="Allure TestOps" title="Allure TestOps" width="50" />
 </div>
 
+## Работа с базами данных
+<div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cockroachdb.png" alt="CockroachDB" title="CockroachDB" width="50" />&nbsp;
+  <img src="media/dbeaver.png" alt="DBeaver" title="DBeaver" width="50" />
+</div>
+
+## Логи и мониторинг
+<div>
+  <img src="media/kibana.png" alt="Kibana" title="Kibana" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana" width="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash" width="50" />
+</div>
+
+<!-- Выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons -->
+<!-- Ещё выбор картинок ↑↑: https://github.com/tandpfun/skill-icons -->
+<!-- Ещё выбор картинок ↑↑: https://icon-icons.com/ru/ -->
+
 ## Python QA Auto
 
 ### Мой стек на Python:
-| Python                                                              | PyCharm                                                              | Git                                                                          | Pytest                                                              | Requests                                                              | Selenium                                                              | Allure Report                                                              | Docker                                                              | Gitlab CI                                                           | PostgreSQL                                                           |
-|---------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
-| <div align="center"><img src="media/python.png" width="50" /></div> | <div align="center"><img src="media/pycharm.png" width="50" /></div> | <div align="center"><img src="media/git.png" width="50" height="50" /></div> | <div align="center"><img src="media/pytest.png" width="50" /></div> | <div align="center"><img src="media/requests.png" width="50" /></div> | <div align="center"><img src="media/selenium.png" width="50" /></div> | <div align="center"><img src="media/allure_report.png" width="60" /></div> | <div align="center"><img src="media/docker.png" width="60" /></div> | <div align="center"><img src="media/gitlab.png" width="50" /></div> | <div align="center"><img src="media/postgre.png" width="60" /></div> |
+| Python                                                              | PyCharm                                                              | Git                                                                          | Pytest                                                              | Requests                                                              | Selenium                                                              | Allure Report                                                              | Docker                                                              | Gitlab CI                                                           | PostgreSQL                                                              |
+|---------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
+| <div align="center"><img src="media/python.png" width="50" /></div> | <div align="center"><img src="media/pycharm.png" width="50" /></div> | <div align="center"><img src="media/git.png" width="50" height="50" /></div> | <div align="center"><img src="media/pytest.png" width="50" /></div> | <div align="center"><img src="media/requests.png" width="50" /></div> | <div align="center"><img src="media/selenium.png" width="50" /></div> | <div align="center"><img src="media/allure_report.png" width="60" /></div> | <div align="center"><img src="media/docker.png" width="60" /></div> | <div align="center"><img src="media/gitlab.png" width="50" /></div> | <div align="center"><img src="media/postgresql.png" width="60" /></div> |
 
 ### Мои проекты на Python:
 | API My Shows Rating                                                          | API Битва покемонов                                                                    | UI Битва покемонов                                                                     |
@@ -64,7 +75,7 @@
 | Pytest, Requests, Docker                                                     | Pytest, Requests, Gitlab CI                                                            | Selenium, Gitlab CI                                                                    |
 
 
-### 📚 Обучение
+## 📚 Обучение
 <div style="text-align: left;">
   <img src="media/certificate_manual.jpg" width="400" />
 </div>
@@ -74,7 +85,7 @@
 </div>
 
 
-### 📊 Статистика
+## 📊 Статистика
 <!-- Виджет: график активности -->
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=VladimirTitov-QA)
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md -->
