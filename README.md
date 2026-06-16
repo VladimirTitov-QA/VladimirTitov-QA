@@ -88,14 +88,20 @@
 ## 📊 Статистика
 <!-- Виджет: график активности -->
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=VladimirTitov-QA)
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md -->
+<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md (Ссылка на темы для графика активности) -->
 
 <!-- Виджет: общая статистика -->
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=VladimirTitov-QA)
 <!-- Виджет: языки программирования -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=VladimirTitov-QA)
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ -->
+<!--
+Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
+(Ссылка на список доступных тем для настройки внешнего вида виджетов статистики (github-readme-stats)) 
+-->
+<!--
+Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ 
+(Ссылка на главный репозиторий этого инструмента, где описаны все параметры настройки (как менять карточки, скрывать поля, сортировать языки и т.д.)) 
+-->
 
 
 **В этом файле используется верстка [Markdown](https://www.markdownguide.org/basic-syntax/)**
